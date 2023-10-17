@@ -1,4 +1,4 @@
-# Algoritmi i strukture podataka
+# Paralelni i distribuirani algoritmi i strukture podataka
 
 ## MATERIJALI:
 http://www.acs.uns.ac.rs/sr/node/237/4468699
